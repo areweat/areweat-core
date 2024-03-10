@@ -1,5 +1,10 @@
 # Local Testing
 
+## Fluvio
+
+Deploy a local cluster, e.g. with  minikube / k3d etc.
+- https://github.com/infinyon/fluvio/blob/master/DEVELOPER.md
+
 ## Mail Server
 
 Either go Postfix+Dovecot route or Rust via Stalwart
